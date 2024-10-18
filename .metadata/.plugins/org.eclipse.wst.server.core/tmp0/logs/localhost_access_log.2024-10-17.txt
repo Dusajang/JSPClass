@@ -380,3 +380,10 @@
 0:0:0:0:0:0:0:1 - - [17/Oct/2024:17:14:25 +0900] "GET /jspPro/days03/ex10_forward.jsp?name=admin&age=20 HTTP/1.1" 404 829
 0:0:0:0:0:0:0:1 - - [17/Oct/2024:17:15:08 +0900] "GET /jspPro/days03/ex10.jsp HTTP/1.1" 200 1390
 0:0:0:0:0:0:0:1 - - [17/Oct/2024:17:15:10 +0900] "GET /jspPro/days03/ex10_forward.jsp?name=admin&age=20 HTTP/1.1" 200 1013
+127.0.0.1 - - [17/Oct/2024:17:20:23 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [17/Oct/2024:17:20:23 +0900] "GET /jspPro/days03/ex10.jsp HTTP/1.1" 200 1390
+0:0:0:0:0:0:0:1 - - [17/Oct/2024:17:20:26 +0900] "GET /jspPro/days03/ex10_redirect.jsp?name=admin&age=20 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Oct/2024:17:20:26 +0900] "GET /jspPro/days03/ex10_finish.jsp HTTP/1.1" 200 1014
+0:0:0:0:0:0:0:1 - - [17/Oct/2024:17:20:33 +0900] "GET /jspPro/days03/ex10_redirect.jsp?name=admin&age=20?name=admin&age=20 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Oct/2024:17:20:33 +0900] "GET /jspPro/days03/ex10_finish.jsp HTTP/1.1" 200 1014
+0:0:0:0:0:0:0:1 - - [17/Oct/2024:17:20:36 +0900] "GET /jspPro/days03/ex10_forward.jsp?name=admin&age=20 HTTP/1.1" 200 1013
