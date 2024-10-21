@@ -63,7 +63,7 @@ public class Write extends HttpServlet {
 	      
 	      DBConn.close();
 	      
-	      // 포워딩, [ 리다이렉트 ]
+	      // [ 리다이렉트 ]
 	      String location = "/jspPro/cstvsboard/list.htm";
 	      location += rowCount == 1 ? "?write=success":"?write=fail";
 	      response.sendRedirect(location);

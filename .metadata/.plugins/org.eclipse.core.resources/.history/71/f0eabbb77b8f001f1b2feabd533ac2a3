@@ -1,0 +1,89 @@
+package days04.board;
+
+import java.io.IOException;
+import java.sql.Connection;
+import java.util.ArrayList;
+
+import javax.servlet.RequestDispatcher;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import com.util.DBConn;
+
+import days04.board.domain.BoardDTO;
+import days04.board.persistence.BoardDAOImpl;
+import days04.board.vo.PagingVO;
+
+
+@WebServlet("/cstvsboard/list.htm")
+public class List extends HttpServlet {
+   private static final long serialVersionUID = 1L;
+
+
+   public List() {
+      super();
+
+   }
+
+   int currentPage = 1;               // 현재 페이지 번호
+   int numberPerPage = 10;            // 한 페이지에 출력할 게시글 수
+   int nuberOfPageBlock = 10;      // 현재 페이지 번호 [1] 2 3 4 5 6 7 8 9 10 >
+   int totalRecords = 0;               // 총 레코드 수
+   int totalPages = 0;                  // 총 페이지 수
+
+   // list.htm      null
+   // list.htm?currentPage=3
+   protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+      System.out.println(">List.doGet()...");
+
+      try {
+         this.currentPage = Integer.parseInt(request.getParameter("currentPage"));
+      } catch (Exception e) {
+         this.currentPage = 1;
+      }
+      
+      try {
+            
+            this.numberPerPage =Integer.parseInt(request.getParameter("numberPerPage")); 
+         } catch (Exception e) {
+         
+            this.numberPerPage = 10;
+            System.out.println("넘버퍼페이지 기본값;");
+         }
+   
+      Connection conn = DBConn.getConnection();
+      BoardDAOImpl dao = new BoardDAOImpl(conn);
+      ArrayList<BoardDTO> list = null;
+
+      PagingVO pvo = new PagingVO(currentPage, numberPerPage, nuberOfPageBlock);
+
+      try {
+         // 페이징 처리 X
+         // list = dao.select();
+         // 페이징 처리 O
+         list = dao.select(currentPage, numberPerPage);
+      } catch (Exception e) {
+         System.out.println(">List.doGet() Exception...");
+         e.printStackTrace();
+      }finally {
+         DBConn.close();
+      }//try
+
+      // 2. 포워딩
+      request.setAttribute("list", list);
+      request.setAttribute("pvo", pvo);
+
+      String path = "/days04/board/list.jsp";
+      RequestDispatcher dispatcher = request.getRequestDispatcher(path);
+      dispatcher.forward(request, response);
+   }
+
+
+   protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+      doGet(request, response);
+   }
+
+}
