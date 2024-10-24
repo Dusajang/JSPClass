@@ -55,6 +55,8 @@
 			controller 서블릿 -> web.xml 등록
 			
 			web.xml 복사 + 붙이기 web_days07.xml
+			
+			톰캣이 시작될 때, web.xml을 읽어옴. -> 컨트롤러 등록
   </xmp>
   
   <a href="/jspPro/board/list.do">/board/list.do</a>

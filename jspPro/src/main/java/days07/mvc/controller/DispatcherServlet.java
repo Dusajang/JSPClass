@@ -37,10 +37,12 @@ public class DispatcherServlet extends HttpServlet {
     	// web.xml  <servlet><init-param><param-name>path</servlet>
     	String path = this.getInitParameter("path");
     	String realPath = this.getServletContext().getRealPath(path);
+    	// 배포시 경로
     	// C:\E\Class\SS20Class\Workspace\JSPClass\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\jspPro\WEB-INF\commandHandler.properties
     	//System.out.println(realPath);
     	
     	Properties prop = new Properties();
+    	// 맵계열, key도 스트링, value도 스트링
     	try (FileReader reader = new FileReader(realPath);) {
 			prop.load(reader);		 
 		} catch (Exception e) { 
