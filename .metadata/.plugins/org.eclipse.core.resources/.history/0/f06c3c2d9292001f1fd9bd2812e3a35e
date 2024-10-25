@@ -1,0 +1,44 @@
+
+var httpRequest = null; 
+
+function getXMLHttpRequest(){
+    if(window.ActiveXObject){  
+        // Internet Explorer를 위한 코드
+        try {
+            return new ActiveXObject("Msxml2.XMLHTTP"); // 최신 버전의 XMLHTTP 지원
+        } catch (e) {
+            try {
+                return new ActiveXObject("Microsoft.XMLHTTP"); // 오래된 버전의 XMLHTTP 지원
+            } catch (e) {
+                return null; // XMLHTTP 객체를 만들 수 없음
+            }
+        }
+    } else if(window.XMLHttpRequest){
+        // 최신 브라우저를 위한 코드 (IE 외의 대부분 브라우저)
+        return new XMLHttpRequest();		 
+    } else {
+        // XMLHttpRequest를 지원하지 않는 경우
+        return null;
+    }
+}
+
+function sendRequest(url, params, callback, method){ 	 
+    httpRequest = getXMLHttpRequest(); // XMLHttpRequest 객체 생성
+
+    httpRequest.onreadystatechange = callback;  // 질문
+    var httpMethod = method ? method : 'GET';   // 질문	
+    if(httpMethod != 'GET' && httpMethod != 'POST') {
+        httpMethod = 'GET';
+    }
+
+    var httpParams = (params == null || params == "") ? null : params;
+    var httpUrl = url;
+
+    if (httpMethod == 'GET' && httpParams != null) {
+        httpUrl = httpUrl + "?" + httpParams;
+    }
+
+    httpRequest.open(httpMethod, httpUrl, true);  // 비동기 방식으로 연결 열기
+    httpParams = (httpMethod == 'POST' ? httpParams : null);
+    httpRequest.send(httpParams);  // 요청 전송
+}

@@ -11,7 +11,6 @@
     <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
     <fullyQualifiedTypeName name="java.sql.ResultSet"/>
     <fullyQualifiedTypeName name="days04.board.persistence.BoardDAOImpl"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.sql.SQLException"/>
     <fullyQualifiedTypeName name="com.util.DBConn"/>
     <fullyQualifiedTypeName name="days04.board.domain.BoardDTO"/>
@@ -28,12 +27,13 @@
     <fullyQualifiedTypeName name="javax.naming.Context"/>
     <fullyQualifiedTypeName name="javax.sql.DataSource"/>
     <fullyQualifiedTypeName name="days06.MemberInfo"/>
-    <fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
-    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
-    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletResponse"/>
     <fullyQualifiedTypeName name="days07.mvc.command.CommandHandler"/>
     <fullyQualifiedTypeName name="com.util.ConnectionProvider"/>
     <fullyQualifiedTypeName name="java.text.DecimalFormat"/>
     <fullyQualifiedTypeName name="java.io.FileFilter"/>
     <fullyQualifiedTypeName name="javax.servlet.Filter"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletResponse"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
 </qualifiedTypeNameHistroy>

@@ -666,3 +666,289 @@
 10월 23, 2024 14:31:54.614 [14048:2120:1023/143154.613:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
 10월 23, 2024 14:39:08.558 [14048:2120:1023/143908.558:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
 10월 23, 2024 16:12:48.754 [14048:15432:1023/161248.753:ERROR:interface_endpoint_client.cc(725)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+10월 25, 2024 10:43:55.726 NEW SESSION
+10월 25, 2024 10:43:55.726 Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 25, 2024 10:43:55.912 [14228:17704:1025/104355.911:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 25, 2024 10:44:25.460 [14228:17704:1025/104425.459:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 25, 2024 10:45:22.155 [14228:17704:1025/104522.155:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 25, 2024 10:47:09.708 [14228:17704:1025/104709.708:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 25, 2024 10:51:09.294 [14228:17704:1025/105109.294:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 25, 2024 10:58:06.763 [14228:17704:1025/105806.762:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 25, 2024 11:06:53.163 Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 25, 2024 11:06:53.356 [10964:13220:1025/110653.356:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 25, 2024 11:07:15.717 [10964:13220:1025/110715.716:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 25, 2024 11:07:58.762 [10964:13220:1025/110758.761:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 25, 2024 11:09:30.346 [10964:13220:1025/110930.346:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 25, 2024 11:13:07.155 [10964:13220:1025/111307.155:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 25, 2024 11:15:17.704 [10964:4484:1025/111517.703:ERROR:interface_endpoint_client.cc(725)] Message 1 rejected by interface blink.mojom.WidgetHost
+10월 25, 2024 11:15:17.840 [10964:4484:1025/111517.840:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:15:17.979 [10964:4484:1025/111517.978:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:15:18.164 [10964:4484:1025/111518.163:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:15:18.278 [10964:4484:1025/111518.278:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:15:18.380 [10964:4484:1025/111518.380:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:15:18.490 [10964:4484:1025/111518.490:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:15:19.34 [10964:4484:1025/111519.033:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:15:21.29 [10964:4484:1025/111521.028:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:15:21.545 [10964:4484:1025/111521.545:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:15:22.223 [10964:4484:1025/111522.222:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:15:26.238 [10964:4484:1025/111526.238:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:15:27.41 [10964:4484:1025/111527.041:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:15:38.76 [10964:4484:1025/111538.075:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:15:42.142 [10964:4484:1025/111542.142:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:15:50.280 [10964:4484:1025/111550.279:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:15:58.94 [10964:4484:1025/111558.094:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:16:18.107 [10964:4484:1025/111618.107:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:16:38.289 [10964:4484:1025/111638.289:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:16:58.345 [10964:4484:1025/111658.344:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:17:01.758 [10964:4484:1025/111701.758:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:17:02.793 [10964:4484:1025/111702.793:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:17:03.92 [10964:4484:1025/111703.092:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:17:03.957 [10964:4484:1025/111703.957:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:17:04.79 [10964:4484:1025/111704.079:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:17:05.102 [10964:4484:1025/111705.102:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:17:16.08 [10964:4484:1025/111716.008:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:17:25.56 [10964:4484:1025/111725.055:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:17:32.815 [10964:4484:1025/111732.815:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:17:45.58 [10964:4484:1025/111745.057:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:18:05.64 [10964:4484:1025/111805.064:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:18:20.185 [10964:4484:1025/111820.184:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:18:25.79 [10964:4484:1025/111825.079:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:18:42.457 [10964:4484:1025/111842.457:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:18:45.91 [10964:4484:1025/111845.091:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:19:05.48 [10964:13220:1025/111905.048:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 25, 2024 11:19:05.122 [10964:4484:1025/111905.122:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:19:25.139 [10964:4484:1025/111925.139:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:19:28.419 [10964:4484:1025/111928.419:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:19:45.121 [10964:4484:1025/111945.121:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:20:05.152 [10964:4484:1025/112005.151:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:20:06.550 [10964:4484:1025/112006.550:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:20:25.159 [10964:4484:1025/112025.159:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:20:44.692 [10964:4484:1025/112044.692:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:20:45.173 [10964:4484:1025/112045.173:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:21:05.167 [10964:4484:1025/112105.167:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:21:25.176 [10964:4484:1025/112125.175:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:21:43.373 [10964:4484:1025/112143.372:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:21:45.175 [10964:4484:1025/112145.175:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:21:56.909 [10964:4484:1025/112156.909:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:22:05.193 [10964:4484:1025/112205.193:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:22:25.186 [10964:4484:1025/112225.186:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:22:45.210 [10964:4484:1025/112245.209:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:22:56.743 [10964:4484:1025/112256.743:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:22:56.863 [10964:4484:1025/112256.863:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:22:59.588 [10964:4484:1025/112259.588:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:23:01.438 [10964:4484:1025/112301.438:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:23:02.145 [10964:4484:1025/112302.144:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:23:02.265 [10964:4484:1025/112302.265:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:23:05.113 [10964:4484:1025/112305.113:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:23:13.121 [10964:4484:1025/112313.121:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:23:17.128 [10964:4484:1025/112317.127:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:23:25.158 [10964:4484:1025/112325.156:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:23:55.46 [10964:4484:1025/112355.045:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:24:16.38 [10964:4484:1025/112416.038:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:24:27.09 [10964:4484:1025/112427.008:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:24:37.62 [10964:4484:1025/112437.061:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:24:39.78 [10964:4484:1025/112439.078:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:24:39.207 [10964:4484:1025/112439.207:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:24:39.927 [10964:4484:1025/112439.926:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:24:40.58 [10964:4484:1025/112440.057:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:25:05.193 [10964:4484:1025/112505.192:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:25:05.320 [10964:4484:1025/112505.320:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:25:05.492 [10964:4484:1025/112505.491:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:25:06.504 [10964:4484:1025/112506.504:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:25:09.168 [10964:4484:1025/112509.168:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:25:17.893 [10964:4484:1025/112517.893:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 11:25:18.23 [10964:4484:1025/112518.023:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.272 s for first_image_paint 0.255 s
+10월 25, 2024 13:37:01.853 [10964:4484:1025/133701.853:ERROR:interface_endpoint_client.cc(725)] Message 1 rejected by interface blink.mojom.WidgetHost
+10월 25, 2024 13:43:14.229 [10964:4484:1025/134314.228:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+10월 25, 2024 13:43:14.229     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+10월 25, 2024 13:43:14.230     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+10월 25, 2024 13:43:14.230     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+10월 25, 2024 13:43:14.231     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+10월 25, 2024 13:43:14.231     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+10월 25, 2024 13:43:14.232     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 25, 2024 14:00:43.658 [10964:4484:1025/140043.657:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+10월 25, 2024 14:00:43.659     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+10월 25, 2024 14:00:43.660     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+10월 25, 2024 14:00:43.661     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+10월 25, 2024 14:00:43.661     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+10월 25, 2024 14:00:43.661     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+10월 25, 2024 14:00:43.661     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 25, 2024 14:27:04.438 [10964:4484:1025/142704.437:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+10월 25, 2024 14:27:04.438     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+10월 25, 2024 14:27:04.438     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+10월 25, 2024 14:27:04.438     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+10월 25, 2024 14:27:04.438     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+10월 25, 2024 14:27:04.438     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+10월 25, 2024 14:27:04.438     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 25, 2024 14:31:09.758 [10964:4484:1025/143109.757:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+10월 25, 2024 14:31:09.758     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+10월 25, 2024 14:31:09.758     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+10월 25, 2024 14:31:09.759     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+10월 25, 2024 14:31:09.759     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+10월 25, 2024 14:31:09.759     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+10월 25, 2024 14:31:09.759     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 25, 2024 14:31:40.973 [10964:4484:1025/143140.972:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+10월 25, 2024 14:31:40.973     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+10월 25, 2024 14:31:40.973     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+10월 25, 2024 14:31:40.973     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+10월 25, 2024 14:31:40.973     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+10월 25, 2024 14:31:40.973     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+10월 25, 2024 14:31:40.973     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 25, 2024 14:32:09.559 [10964:4484:1025/143209.559:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+10월 25, 2024 14:32:09.559     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+10월 25, 2024 14:32:09.559     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+10월 25, 2024 14:32:09.559     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+10월 25, 2024 14:32:09.559     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+10월 25, 2024 14:32:09.559     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+10월 25, 2024 14:32:09.560     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 25, 2024 14:32:36.34 Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 25, 2024 14:32:36.194 [1444:14448:1025/143236.194:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 25, 2024 14:32:36.961 [1444:2544:1025/143236.961:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+10월 25, 2024 14:32:36.962     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+10월 25, 2024 14:32:36.962     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+10월 25, 2024 14:32:36.962     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+10월 25, 2024 14:32:36.962     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+10월 25, 2024 14:32:36.962     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+10월 25, 2024 14:32:36.962     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 25, 2024 14:32:57.858 [1444:14448:1025/143257.857:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 25, 2024 14:33:56.102 [1444:14448:1025/143356.101:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 25, 2024 14:35:36.902 [1444:14448:1025/143536.902:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 25, 2024 14:36:55.639 Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 25, 2024 14:36:55.842 [2664:10564:1025/143655.842:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 25, 2024 14:37:16.152 [2664:10564:1025/143716.152:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 25, 2024 14:38:02.729 [2664:10564:1025/143802.728:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 25, 2024 14:39:39.279 [2664:10564:1025/143939.279:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 25, 2024 14:42:47.29 [2664:10564:1025/144247.028:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 25, 2024 14:45:51.56 [2664:18552:1025/144551.055:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+10월 25, 2024 14:45:51.56     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+10월 25, 2024 14:45:51.56     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+10월 25, 2024 14:45:51.56     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+10월 25, 2024 14:45:51.56     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+10월 25, 2024 14:45:51.56     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+10월 25, 2024 14:45:51.57     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 25, 2024 14:49:31.965 [2664:18552:1025/144931.964:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+10월 25, 2024 14:49:31.965     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+10월 25, 2024 14:49:31.965     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+10월 25, 2024 14:49:31.965     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+10월 25, 2024 14:49:31.965     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+10월 25, 2024 14:49:31.966     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+10월 25, 2024 14:49:31.966     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 25, 2024 14:50:45.967 [2664:10564:1025/145045.966:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 25, 2024 14:51:43.248 [2664:18552:1025/145143.247:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+10월 25, 2024 14:51:43.248     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+10월 25, 2024 14:51:43.248     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+10월 25, 2024 14:51:43.249     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+10월 25, 2024 14:51:43.249     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+10월 25, 2024 14:51:43.249     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+10월 25, 2024 14:51:43.249     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 25, 2024 14:53:06.529 [2664:18552:1025/145306.528:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+10월 25, 2024 14:53:06.530     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+10월 25, 2024 14:53:06.530     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+10월 25, 2024 14:53:06.530     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+10월 25, 2024 14:53:06.530     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+10월 25, 2024 14:53:06.531     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+10월 25, 2024 14:53:06.532     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 25, 2024 14:53:07.92 [2664:18552:1025/145307.092:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 25, 2024 14:53:07.93 [2664:18552:1025/145307.092:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 25, 2024 14:53:07.93 [2664:18552:1025/145307.092:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 25, 2024 14:53:07.93 [2664:18552:1025/145307.092:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 25, 2024 14:53:07.94 [2664:18552:1025/145307.092:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 25, 2024 14:53:07.94 [2664:18552:1025/145307.092:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 25, 2024 14:53:07.94 [2664:18552:1025/145307.092:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 25, 2024 14:53:07.94 [2664:18552:1025/145307.092:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 25, 2024 14:53:07.94 [2664:18552:1025/145307.092:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 25, 2024 14:53:07.95 [2664:18552:1025/145307.092:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 25, 2024 14:53:07.95 [2664:18552:1025/145307.092:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 25, 2024 14:53:07.95 [2664:18552:1025/145307.092:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 25, 2024 14:53:07.96 [2664:18552:1025/145307.092:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 25, 2024 14:53:07.96 [2664:18552:1025/145307.092:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 25, 2024 14:53:07.96 [2664:18552:1025/145307.092:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 25, 2024 14:53:07.97 [2664:18552:1025/145307.092:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 25, 2024 14:53:07.97 [2664:18552:1025/145307.092:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 25, 2024 14:53:07.98 [2664:18552:1025/145307.092:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 25, 2024 14:53:07.98 [2664:18552:1025/145307.092:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 25, 2024 14:53:07.99 [2664:18552:1025/145307.092:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 25, 2024 14:53:07.99 [2664:18552:1025/145307.092:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 25, 2024 14:53:07.100 [2664:18552:1025/145307.092:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 25, 2024 14:53:07.100 [2664:18552:1025/145307.092:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 25, 2024 14:53:07.100 [2664:18552:1025/145307.092:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 25, 2024 14:53:07.101 [2664:18552:1025/145307.092:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 25, 2024 14:53:07.102 [2664:18552:1025/145307.092:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 25, 2024 14:53:07.102 [2664:18552:1025/145307.092:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 25, 2024 14:53:07.103 [2664:18552:1025/145307.093:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 25, 2024 14:53:07.103 [2664:18552:1025/145307.093:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 25, 2024 14:53:07.103 [2664:18552:1025/145307.093:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 25, 2024 14:53:07.103 [2664:18552:1025/145307.093:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 25, 2024 14:53:07.104 [2664:18552:1025/145307.093:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 25, 2024 14:53:07.104 [2664:18552:1025/145307.093:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 25, 2024 14:53:07.104 [2664:18552:1025/145307.093:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 25, 2024 14:53:07.104 [2664:18552:1025/145307.093:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 25, 2024 14:53:07.105 [2664:18552:1025/145307.093:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 25, 2024 14:55:08.669 [2664:18552:1025/145508.669:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+10월 25, 2024 14:55:08.670     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+10월 25, 2024 14:55:08.670     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+10월 25, 2024 14:55:08.671     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+10월 25, 2024 14:55:08.671     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+10월 25, 2024 14:55:08.671     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+10월 25, 2024 14:55:08.672     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 25, 2024 15:10:36.780 Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 25, 2024 15:10:36.986 [9324:17800:1025/151036.985:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 25, 2024 15:11:06.690 [9324:17800:1025/151106.690:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 25, 2024 15:11:54.669 [9324:17800:1025/151154.668:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 25, 2024 15:13:51.614 [9324:17800:1025/151351.614:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 25, 2024 15:16:59.435 [9324:17800:1025/151659.435:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 25, 2024 15:18:20.946 [9324:3304:1025/151820.945:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+10월 25, 2024 15:18:20.946     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+10월 25, 2024 15:18:20.946     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+10월 25, 2024 15:18:20.946     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+10월 25, 2024 15:18:20.946     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+10월 25, 2024 15:18:20.946     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+10월 25, 2024 15:18:20.946     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 25, 2024 15:23:45.909 [9324:17800:1025/152345.908:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 25, 2024 15:42:01.530 [9324:3304:1025/154201.530:ERROR:interface_endpoint_client.cc(725)] Message 1 rejected by interface blink.mojom.WidgetHost
+10월 25, 2024 15:45:39.561 [9324:3304:1025/154539.561:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+10월 25, 2024 15:45:39.562     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+10월 25, 2024 15:45:39.562     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+10월 25, 2024 15:45:39.562     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+10월 25, 2024 15:45:39.562     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+10월 25, 2024 15:45:39.562     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+10월 25, 2024 15:45:39.563     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 25, 2024 16:07:31.44 [9324:3304:1025/160731.044:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+10월 25, 2024 16:07:31.45     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+10월 25, 2024 16:07:31.45     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+10월 25, 2024 16:07:31.45     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+10월 25, 2024 16:07:31.45     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+10월 25, 2024 16:07:31.45     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+10월 25, 2024 16:07:31.45     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+
+10월 25, 2024 16:29:20.488 NEW SESSION
+10월 25, 2024 16:29:20.488 Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 25, 2024 16:29:20.685 [9648:15052:1025/162920.685:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 25, 2024 16:29:38.372 [9648:11340:1025/162938.372:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+10월 25, 2024 16:29:38.372     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+10월 25, 2024 16:29:38.374     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+10월 25, 2024 16:29:38.374     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+10월 25, 2024 16:29:38.374     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+10월 25, 2024 16:29:38.374     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+10월 25, 2024 16:29:38.374     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 25, 2024 16:29:41.492 [9648:15052:1025/162941.490:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -118
+10월 25, 2024 16:29:46.721 [9648:15052:1025/162946.720:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 25, 2024 16:30:30.723 [9648:15052:1025/163030.723:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 25, 2024 16:32:16.481 [9648:15052:1025/163216.481:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 25, 2024 16:35:08.964 [9648:15052:1025/163508.963:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 25, 2024 16:41:05.88 [9648:11340:1025/164105.087:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+10월 25, 2024 16:41:05.88     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+10월 25, 2024 16:41:05.88     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+10월 25, 2024 16:41:05.88     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+10월 25, 2024 16:41:05.88     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+10월 25, 2024 16:41:05.89     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+10월 25, 2024 16:41:05.89     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 25, 2024 16:43:03.915 [9648:15052:1025/164303.915:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+10월 25, 2024 17:14:41.92 [9648:11340:1025/171441.092:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+10월 25, 2024 17:14:41.93     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+10월 25, 2024 17:14:41.93     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+10월 25, 2024 17:14:41.93     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+10월 25, 2024 17:14:41.93     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+10월 25, 2024 17:14:41.93     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+10월 25, 2024 17:14:41.94     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
